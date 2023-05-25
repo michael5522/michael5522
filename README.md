@@ -1,6 +1,6 @@
 ### Hello World!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael5522&count_private=true&show_icons=true&include_all_commits=true&theme=swift)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael5522&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)
 
 ### Let's Connect
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin: 11px;"/>](https://www.linkedin.com/in/chang-michael/)
