@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello World!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael5522&count_private=true&show_icons=true&include_all_commits=true)
+
+### Let's Connect
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin: 12px;"/>](https://www.linkedin.com/in/chang-michael/)
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:michaelkuochang@gmail.com)
 <!--
 **michael5522/michael5522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
