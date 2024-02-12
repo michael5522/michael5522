@@ -1,6 +1,6 @@
 ### Hello World!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michael5522&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)
+
 - 📚 Stack - JavaScript, HTML, CSS, React, Node, Express PostgeSQL
 - 🛠 Tools -  Git, npm, Webpack, Babel, Docker, Figma, Command Line, Slack, FlexBot
 ## About Me
