@@ -1,8 +1,8 @@
 ### Hello World!
 
 
-- 📚 Stack - JavaScript, HTML, CSS, React, Node, Express PostgeSQL
-- 🛠 Tools -  Git, npm, Webpack, Babel, Docker, Figma, Command Line, Slack, FlexBot
+- 📚 Stack - JavaScript, HTML, CSS, React, Node, Express PostgeSQL, NextJS
+- 🛠 Tools -  Git, npm, Webpack, Babel, Docker, Figma, Command Line, Slack, FlexBot, Tailwind.css
 ## About Me
 Hey! I'm Michael, a web developer. I know JavaScript, HTML, CSS, React, Node, Express,PostgreSQL and am continuing to improve and stay up to date on the latest trends. I've transitioned into this field from teaching kids but have learned that patience is a virtue. 
 ### Let's Connect!
